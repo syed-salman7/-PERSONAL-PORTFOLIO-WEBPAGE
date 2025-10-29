@@ -26,4 +26,7 @@ Tools Used:
 
 Deliverable:
 A fully responsive personal portfolio webpage with project sections and navigation.
+
+##OUTPUT
+<img width="1902" height="971" alt="Image" src="https://github.com/user-attachments/assets/fae14856-ab0b-4585-9d4c-515171b4c25c" />
  
