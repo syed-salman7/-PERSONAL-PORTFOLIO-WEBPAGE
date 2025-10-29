@@ -29,4 +29,5 @@ A fully responsive personal portfolio webpage with project sections and navigati
 
 ##OUTPUT
 <img width="1902" height="971" alt="Image" src="https://github.com/user-attachments/assets/fae14856-ab0b-4585-9d4c-515171b4c25c" />
+<img width="1901" height="969" alt="Image" src="https://github.com/user-attachments/assets/a1e783fc-fe44-4fc6-8cc3-a50295cbfca1" />
  
